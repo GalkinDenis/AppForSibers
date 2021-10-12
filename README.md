@@ -5,11 +5,11 @@ Detail fragment showing: hp, attack, defence, speed, types, height, weight, stat
 Architecture app (MVVM):  
 
   
-Single Activity    
-Two fragments
-View model factory
-Two view models, for each fragment
-Dao interface
+Single Activity  
+Two fragments  
+View model factory  
+Two view models, for each fragment  
+Dao interface  
 Room database  
    
    ====================
