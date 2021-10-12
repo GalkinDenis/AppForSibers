@@ -16,11 +16,11 @@ Room database
   
 Implemented:
 
-Navigation architecture
-ViewModel
-Retrofit 2
-Dagger 2
-Coroutines
-LiveData
-Room
+Navigation architecture  
+ViewModel  
+Retrofit 2  
+Dagger 2  
+Coroutines  
+LiveData  
+Room  
 Landscape layouts
