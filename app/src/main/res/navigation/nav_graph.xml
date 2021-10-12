@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/pokesList_page">
+
+    <fragment
+        android:id="@+id/pokesList_page"
+        android:name="com.denis.appForSibersTeam.pokesListFragment.PokesListFragment"
+        android:label="@string/pokes_list"/>
+    <action
+        android:id="@+id/action_PokesListFragment_to_DescriberPokeFragment"
+        app:destination="@id/describerPoke_page" />
+
+    <fragment
+        android:id="@+id/describerPoke_page"
+        android:name="com.denis.appForSibersTeam.describeFragment.DescriberPoke"
+        android:label="@string/describing_poke">
+        <argument
+            android:name="avatar"
+            app:argType="string" />
+        <argument
+            android:name="name"
+            app:argType="string" />
+        <argument
+            android:name="ability"
+            app:argType="string" />
+        <argument
+            android:name="weight"
+            app:argType="long" />
+        <argument
+            android:name="height"
+            app:argType="long" />
+        <argument
+            android:name="types"
+            app:argType="string" />
+        <argument
+            android:name="hp"
+            app:argType="long" />
+        <argument
+            android:name="attack"
+            app:argType="long" />
+        <argument
+            android:name="defence"
+            app:argType="long" />
+        <argument
+            android:name="speed"
+            app:argType="long" />
+    </fragment>
+</navigation>

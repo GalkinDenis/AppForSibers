@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.example.inventory.NavGraphDirections","com.denis.appForSibersTeam.pokesListFragment.PokesListFragmentDirections","com.denis.appForSibersTeam.describeFragment.DescriberPokeDirections","com.denis.appForSibersTeam.describeFragment.DescriberPokeArgs"]}]

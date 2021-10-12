@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.Valutes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:7:5-23:19
+14        android:name="com.denis.appForSibersTeam.app.App"
+14-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:8:9-58
+15        android:allowBackup="true"
+15-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.6.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\8ed4bfee3bf96da4a743d822954eb422\core-1.6.0\AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/label"
+17-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:10:9-37
+18        android:label="@string/app_name"
+18-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:11:9-41
+19        android:supportsRtl="true"
+19-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:12:9-35
+20        android:theme="@style/Theme.InventoryApp" >
+20-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:13:9-50
+21        <activity android:name="com.denis.appForSibersTeam.MainActivity" >
+21-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:14:9-19:20
+21-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:14:19-73
+22            <intent-filter>
+22-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:15:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:16:17-69
+23-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:16:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:17:17-77
+25-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28
+29        <meta-data
+29-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:20:9-22:57
+30            android:name="preloaded_fonts"
+30-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:21:13-43
+31            android:resource="@array/preloaded_fonts" />
+31-->C:\Users\Denis\AndroidStudioProjects\Sibers\app\src\main\AndroidManifest.xml:22:13-54
+32
+33        <service
+33-->[androidx.room:room-runtime:2.3.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\699c8abd5d0fb48d740b535dd466ed20\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+34            android:name="androidx.room.MultiInstanceInvalidationService"
+34-->[androidx.room:room-runtime:2.3.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\699c8abd5d0fb48d740b535dd466ed20\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+35            android:directBootAware="true"
+35-->[androidx.room:room-runtime:2.3.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\699c8abd5d0fb48d740b535dd466ed20\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+36            android:exported="false" />
+36-->[androidx.room:room-runtime:2.3.0] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\699c8abd5d0fb48d740b535dd466ed20\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+37
+38        <provider
+38-->[com.squareup.picasso:picasso:2.71828] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\a585c7be944b0b4a7708c2561767f3e2\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+39            android:name="com.squareup.picasso.PicassoProvider"
+39-->[com.squareup.picasso:picasso:2.71828] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\a585c7be944b0b4a7708c2561767f3e2\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+40            android:authorities="com.example.Valutes.com.squareup.picasso"
+40-->[com.squareup.picasso:picasso:2.71828] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\a585c7be944b0b4a7708c2561767f3e2\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+41            android:exported="false" />
+41-->[com.squareup.picasso:picasso:2.71828] C:\Users\Denis\.gradle\caches\transforms-2\files-2.1\a585c7be944b0b4a7708c2561767f3e2\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+42    </application>
+43
+44</manifest>

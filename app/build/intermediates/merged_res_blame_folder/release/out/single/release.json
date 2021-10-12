@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_progress.png.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\progress.png"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_label.png.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\mipmap-xhdpi\\label.png"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_cinzel_bold.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\cinzel_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_label.png.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\mipmap-mdpi\\label.png"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_label.png.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\mipmap-hdpi\\label.png"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\layout_user_list_fragment.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\layout\\user_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_playfair_display_sc_bold.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\playfair_display_sc_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_label.png.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\mipmap-xxxhdpi\\label.png"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_label.png.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\mipmap-xxhdpi\\label.png"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_krona_one.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\krona_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_alegreya_bold_italic.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\alegreya_bold_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_chango.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\chango.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_format_list_numbered_rtl_24.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\ic_baseline_format_list_numbered_rtl_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_aldrich.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\aldrich.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_bungee_inline.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\bungee_inline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_cormorant_sc_bold.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\cormorant_sc_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_alegreya_sc_bold_italic.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\alegreya_sc_bold_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_assignment_ind_24.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\ic_baseline_assignment_ind_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\layout_user_list_item.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_cloud_off_24.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\ic_baseline_cloud_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_carrois_gothic_sc.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\carrois_gothic_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\layout_describe_poke_layout.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\layout\\describe_poke_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\font_audiowide.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\font\\audiowide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\build\\intermediates\\res\\merged\\release\\drawable_progress_animation.xml.flat",
+        "source": "C:\\Users\\Denis\\AndroidStudioProjects\\Sibers\\app\\src\\main\\res\\drawable\\progress_animation.xml"
+    }
+]

@@ -1,0 +1,53 @@
+com/denis/appForSibersTeam/app/modules/DataModule_ProvideDataBaseFactory.java
+ com.denis.appForSibersTeam.app.modules.DataModule_ProvideDataBaseFactory
+com/denis/appForSibersTeam/viewModels/ViewModelFactory_Factory.java
+ com.denis.appForSibersTeam.viewModels.ViewModelFactory_Factory
+com/example/inventory/databinding/ActivityMainBinding.java
+ com.example.inventory.databinding.ActivityMainBinding
+com/denis/appForSibersTeam/data/ItemDao_Impl.java
+ com.denis.appForSibersTeam.data.ItemDao_Impl
+ com.denis.appForSibersTeam.data.ItemDao_Impl$1
+ com.denis.appForSibersTeam.data.ItemDao_Impl$2
+ com.denis.appForSibersTeam.data.ItemDao_Impl$3
+ com.denis.appForSibersTeam.data.ItemDao_Impl$4
+ com.denis.appForSibersTeam.data.ItemDao_Impl$5
+com/denis/appForSibersTeam/data/ItemRoomDatabase_Impl.java
+ com.denis.appForSibersTeam.data.ItemRoomDatabase_Impl
+ com.denis.appForSibersTeam.data.ItemRoomDatabase_Impl$1
+com/example/inventory/databinding/UserListFragmentBinding.java
+ com.example.inventory.databinding.UserListFragmentBinding
+com/example/inventory/databinding/UserListItemBinding.java
+ com.example.inventory.databinding.UserListItemBinding
+com/denis/appForSibersTeam/app/components/DaggerAppComponent.java
+ com.denis.appForSibersTeam.app.components.DaggerAppComponent
+ com.denis.appForSibersTeam.app.components.DaggerAppComponent$1
+ com.denis.appForSibersTeam.app.components.DaggerAppComponent$AddDescribeViewModelComponentFactory
+ com.denis.appForSibersTeam.app.components.DaggerAppComponent$AddDescribeViewModelComponentImpl
+ com.denis.appForSibersTeam.app.components.DaggerAppComponent$AddPokesFragmentViewModelComponentFactory
+ com.denis.appForSibersTeam.app.components.DaggerAppComponent$AddPokesFragmentViewModelComponentImpl
+ com.denis.appForSibersTeam.app.components.DaggerAppComponent$Factory
+com/denis/appForSibersTeam/describeFragment/DescriberPoke_MembersInjector.java
+ com.denis.appForSibersTeam.describeFragment.DescriberPoke_MembersInjector
+com/denis/appForSibersTeam/app/modules/RepositoryModule_ProvideModelFactory.java
+ com.denis.appForSibersTeam.app.modules.RepositoryModule_ProvideModelFactory
+ com.denis.appForSibersTeam.app.modules.RepositoryModule_ProvideModelFactory$InstanceHolder
+com/denis/appForSibersTeam/viewModels/DescribeViewModel_Factory.java
+ com.denis.appForSibersTeam.viewModels.DescribeViewModel_Factory
+ com.denis.appForSibersTeam.viewModels.DescribeViewModel_Factory$InstanceHolder
+com/denis/appForSibersTeam/app/modules/RepositoryModule_ProvideRepositoryFactory.java
+ com.denis.appForSibersTeam.app.modules.RepositoryModule_ProvideRepositoryFactory
+com/example/inventory/databinding/DescribePokeLayoutBinding.java
+ com.example.inventory.databinding.DescribePokeLayoutBinding
+com/denis/appForSibersTeam/app/modules/DataModule_ProvideDaoFactory.java
+ com.denis.appForSibersTeam.app.modules.DataModule_ProvideDaoFactory
+com/denis/appForSibersTeam/pokesListFragment/PokesListFragment_MembersInjector.java
+ com.denis.appForSibersTeam.pokesListFragment.PokesListFragment_MembersInjector
+com/example/inventory/BuildConfig.java
+ com.example.inventory.BuildConfig
+com/denis/appForSibersTeam/app/modules/RepositoryModule_ProvideRemoteDataSourceFactory.java
+ com.denis.appForSibersTeam.app.modules.RepositoryModule_ProvideRemoteDataSourceFactory
+ com.denis.appForSibersTeam.app.modules.RepositoryModule_ProvideRemoteDataSourceFactory$InstanceHolder
+com/denis/appForSibersTeam/viewModels/PokeViewModel_Factory.java
+ com.denis.appForSibersTeam.viewModels.PokeViewModel_Factory
+com/denis/appForSibersTeam/network/Repository_Factory.java
+ com.denis.appForSibersTeam.network.Repository_Factory

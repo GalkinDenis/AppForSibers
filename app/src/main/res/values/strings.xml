@@ -1,0 +1,34 @@
+<resources>
+    <!-- PREFIX TEXT-->
+    <string name="app_name">AppForSibers</string>
+
+
+    <!-- LABELS-->
+    <string name="pokes_list">List of pokemons</string>
+    <string name="describing_poke">Describing</string>
+    <string name="note">Check to internet connection.</string>
+
+    <!-- VIEW MODEL FACTORY-->
+    <string name="undefined_model_class">Unknown model class: </string>
+    <string name="network_error">Error of network, please check to internet connection.</string>
+
+    <!-- CHECKBOX-->
+    <string name="note_of_sorting">Sort by:</string>
+    <string name="sort_by_hp">hp</string>
+    <string name="sort_by_attack">attack</string>
+    <string name="sort_by_defence">defence</string>
+    <string name="reinitialize_button">Reinitialize</string>
+    <string name="poke_name">Name:</string>
+    <string name="poke_ability">Ability:</string>
+
+    <!-- DESCRIBE_POKE-->
+    <string name="hp_head">HP:</string>
+    <string name="weight_head">WEIGHT:</string>
+    <string name="height_head">HEIGHT:</string>
+    <string name="base_experience_head">BASE EXPERIENCE:</string>
+    <string name="speed_head">SPEED HEAD:</string>
+    <string name="attack_head">ATTACK:</string>
+    <string name="defence_head">DEFENCE:</string>
+    <string name="types_head">TYPES:</string>
+    <string name="ability_head">ABILITY:</string>
+</resources>
